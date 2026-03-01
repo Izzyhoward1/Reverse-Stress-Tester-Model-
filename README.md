@@ -1,7 +1,8 @@
 # Reverse-Stress-Tester-Model-
+
 With great power comes great responsibility 
 
-A Model designed to reverse stress test automation implications for financial markets 
+This is a model designed I am proud to have built that reverse stress tests automation implications for financial markets 
 
 This is a project designed to model the poential capacity for both growth and destruction in the stock market based on bullish and bearish cases of AI infrastructure, energy and overall tech development futures. 
 
