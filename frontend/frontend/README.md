@@ -1,7 +1,8 @@
-# React + Vite
+# Overview 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a project designed to model the poential capacity for both growth and destruction in the stock market based on bullish and bearish cases of AI infrastructure, energy and overall tech development futures. 
 
+To cite the site incide citation in Harvard Style - Howard, I (2026) 'Reverse-Stress-Tester-Model'
 Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
@@ -9,8 +10,8 @@ Currently, two official plugins are available:
 
 ## React Compiler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+The React Compiler is not enabled on this template because of its impact on dev & build performances. 
 
 ## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+If you are developing a production application, we I recommend using TypeScript with type-aware lint rules enabled. 
